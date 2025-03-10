@@ -20,7 +20,7 @@
         {"name": "BITS", "title": "bupBITS", "shortName": "BITS"},
         {"name": "BOOMER", "title": "bupBOOMER", "shortName": "BOOMR"},
         {"name": "BUG", "title": "bupBug", "shortName": "BUG"},
-        {"name": "BUP", "title": "bupBUP", "shortName": "BUP"},
+        {"name": "BUP", "title": "bupBup", "shortName": "BUP"},
         {"name": "BUPS", "title": "bupBUPS", "shortName": "BUPS"},
         {"name": "BUPWAD", "title": "bupBUPWAD", "shortName": "BUPWD"},
         {"name": "CALL", "title": "bupCall", "shortName": "CALL"},

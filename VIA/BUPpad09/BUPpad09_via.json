@@ -21,7 +21,7 @@
     {"name": "BOOMER", "title": "bupBOOMER", "shortName": "BOOMR"},
     {"name": "BROC", "title": "bupBroc", "shortName": "BROC"},
     {"name": "BUG", "title": "bupBug", "shortName": "BUG"},
-    {"name": "BUP", "title": "bupBUP", "shortName": "BUP"},
+    {"name": "BUP", "title": "bupBup", "shortName": "BUP"},
     {"name": "BUPS", "title": "bupBUPS", "shortName": "BUPS"},
     {"name": "BUPWAD", "title": "bupBUPWAD", "shortName": "BUPWD"},
     {"name": "CALL", "title": "bupCall", "shortName": "CALL"},
@@ -112,7 +112,7 @@
     {"name": "UNITY", "title": "TwitchUnity", "shortName": "UNITY"},
     {"name": "VOTENAY", "title": "VoteNay", "shortName": "VTNAY"},
     {"name": "VOTEYEA", "title": "VoteYea", "shortName": "VTYEA"}
-    
+
   ],
   "menus": [
     {
